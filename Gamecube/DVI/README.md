@@ -40,7 +40,7 @@ LCSOFT Driver: http://www.retro-system.com/AN58764_with_spi.zip (Credits to Happ
 
 Flash Program: http://www.retro-system.com/new_fpga_flash.zip (Credits to Happy_Bunny)
 
-Flash File: 
+Flash File: https://github.com/citrus3000psi/GCVideo-Hardware-Designs/blob/master/Gamecube/DVI/gcvideo-dvi-shuriken-v3-2.3.bin (Credits to Unseen)
 
 Plug in the LCSoft, and use the supplied drivers.  You might need disable driver signature enforcement within windows.
 
