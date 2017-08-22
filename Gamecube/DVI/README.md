@@ -29,7 +29,11 @@ https://oshpark.com/shared_projects/Zte7gvJZ
 
 The flash is now listed as EOL, but this flash should be a drop in replacement (untested): MX25V4006EM1I-13
 
-You will need to program the flash with an SPI programmer. I use an Lcsoft CY7C68013A  I program the board before installing, it is just eaiser that way.
+You will need to program the flash with an SPI programmer. I use an Lcsoft CY7C68013A  
+
+I program the flash before before installing into the gamecube, it is just eaiser that way.  
+
+**You also need to Short JP1 on the FPGA board.  This puts the FPGA into a Hault state which allows to write to the the flash.  After flashing is complete, You need to remove the short on JP1.
 
 CLK=PA0
 
