@@ -2,6 +2,15 @@ Thanks to Unseen and Happy_Bunny.  Without them, this project would not exsist.
 
 You will be required to have a very good knowledge of electronics and how to solder.  This is not a beginner project.  I am not at fault if you cannot get this to work, or you mess up your gamecube.
 
+
+
+![alt text](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/blob/master/Gamecube/DVI/HtKC8e7.jpg "MainBoard")
+![alt text](https://github.com/citrus3000psi/GCVideo-Hardware-Designs/blob/master/Gamecube/DVI/6VmeqG1h.jpg "MainBoard")
+
+
+
+
+
 This design consists of three PCBS.
 
 QSB which attaches to the bottom of the Digital out port
