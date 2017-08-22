@@ -1,5 +1,7 @@
 Thanks to Unseen and Happy_Bunny.  Without them, this project would not exsist.
 
+You will be required to have a very good knowledge of electronics and how to solder.  This is not a beginner project.  I am not at fault if you cannot get this to work, or you mess up your gamecube.
+
 This design consists of three PCBS.
 
 QSB which attaches to the bottom of the Digital out port
