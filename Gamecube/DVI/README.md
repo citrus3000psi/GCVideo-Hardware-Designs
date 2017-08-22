@@ -14,7 +14,9 @@ You will be required to have a very good knowledge of electronics and how to sol
 This design consists of three PCBS.
 
 QSB which attaches to the bottom of the Digital out port
+
 Main PCB which attaches to the QSB
+
 HDMI QSB Extentsion board which brings the HDMI signals to the back of the Gamecube.
 
 The Three boards can be found here (BOM are listed in the descriptions):
