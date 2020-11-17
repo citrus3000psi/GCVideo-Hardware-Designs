@@ -1,0 +1,50 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      (default)*
+G04 Layer:                BoardOutline*
+G04 This File Name:       wii_to_snesmultiout.gm1*
+G04 Source File Name:     wii_to_snesmultiout.rrb*
+G04 Unique ID:            a9f98a6f-7b16-41eb-b503-fa8c6335f000*
+G04 Generated Date:       Tuesday, 10 July 2018 14:25:27*
+G04*
+G04 Created Using:        Robot Room Copper Connection v3.0.5875*
+G04 Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx*
+G04 License Number:       1880*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBoardEdge*%
+%ADD10R,.006X.006*%
+%ADD11R,.007X.007*%
+D10*
+G01X3220Y-1742D02*
+X3186Y-1955D01*
+X3088Y-2147D01*
+X2936Y-2299D01*
+X2744Y-2397D01*
+X2531Y-2431D01*
+X2318Y-2397D01*
+X2126Y-2299D01*
+X1973Y-2147D01*
+X1876Y-1955D01*
+X1842Y-1742D01*
+X1876Y-1529D01*
+X1973Y-1337D01*
+X2126Y-1184D01*
+X2318Y-1086D01*
+X2531Y-1053D01*
+X2744Y-1086D01*
+X2936Y-1184D01*
+X3088Y-1337D01*
+X3186Y-1529D01*
+X3220Y-1742D01*
+D11*
+X-779Y647D02*
+X5790D01*
+Y-7168D01*
+X-779D01*
+Y647D01*
+M02*

@@ -1,0 +1,31 @@
+M48
+;
+; Format:               Excellon NC Drill Ascii
+; Export Settings:      (default)
+; This File Name:       wii_to_snesmultiout.txt
+; Source File Name:     wii_to_snesmultiout.rrb
+; Unique ID:            a9f98a6f-7b16-41eb-b503-fa8c6335f000
+; Generated Date:       Tuesday, 10 July 2018 14:25:27
+;
+; Created Using:        Robot Room Copper Connection v3.0.5875
+; Software Contact:     http://www.robotroom.com/CopperConnection/Support.aspx
+; License Number:       1880
+;
+; Zero Suppression:     Trailing
+; Number Precision:     2.4
+;
+FMAT,2
+INCH,LZ
+T01C.012
+%
+T01
+X001565Y-001371
+X001319Y-002837
+X002106Y-003044
+X000039Y-002837
+X003337Y-001164
+X004Y-001213
+X004117Y-001952
+X004983Y-001263
+X005108Y-002788
+M30
